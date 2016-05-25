@@ -10,8 +10,8 @@
    "branch":      "mm6.0"
   },
   {
-   "repository": "CyanogenMod/android_device_cyanogen_msm8939-common",
-   "target_path": "device/cyanogen/msm8939-common",
+   "repository": "CyanogenMod/android_device_cyanogen_msm8916-common",
+   "target_path": "device/cyanogen/msm8916-common",
    "branch":      "cm-13.0"
   }
 ]
