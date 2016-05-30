@@ -1,0 +1,17 @@
+[
+  {
+   "repository": "CyanogenMod/android_kernel_cyanogen_msm8916",
+   "target_path": "kernel/cyanogen/msm8916",
+   "branch":      "staging/cm-13.0-lettuce"
+  },
+  {
+   "repository":  "TheMuppets/proprietary_vendor_yu",
+   "target_path": "vendor/yu",
+   "branch":      "cm-13.0"
+  },
+  {
+    "repository": "CyanogenMod/android_device_cyanogen_msm8939-common",
+    "target_path": "device/cyanogen/msm8939-common",
+   "branch":      "cm-13.0"
+  }
+]
